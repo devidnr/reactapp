@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ab003eb6.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.2ae9bea8.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.2ae9bea8.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.b45f0eea.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.b45f0eea.js.map",
-    "static/js/2.76457402.chunk.js": "/react-gh-pages/static/js/2.76457402.chunk.js",
-    "static/js/2.76457402.chunk.js.map": "/react-gh-pages/static/js/2.76457402.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.cae5bb0c8bc2e0bdc6f156bb8ebfb47d.js": "/react-gh-pages/precache-manifest.cae5bb0c8bc2e0bdc6f156bb8ebfb47d.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.ab003eb6.chunk.css.map": "/react-gh-pages/static/css/main.ab003eb6.chunk.css.map",
-    "static/js/2.76457402.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.76457402.chunk.js.LICENSE.txt",
-    "static/media/delivery-man.svg": "/react-gh-pages/static/media/delivery-man.4948508c.svg"
+    "main.css": "/reactapp/static/css/main.ab003eb6.chunk.css",
+    "main.js": "/reactapp/static/js/main.f6f3fa15.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.f6f3fa15.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.f935dd26.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.f935dd26.js.map",
+    "static/js/2.76457402.chunk.js": "/reactapp/static/js/2.76457402.chunk.js",
+    "static/js/2.76457402.chunk.js.map": "/reactapp/static/js/2.76457402.chunk.js.map",
+    "index.html": "/reactapp/index.html",
+    "precache-manifest.8f418031a51b46faae17f9a998926bce.js": "/reactapp/precache-manifest.8f418031a51b46faae17f9a998926bce.js",
+    "service-worker.js": "/reactapp/service-worker.js",
+    "static/css/main.ab003eb6.chunk.css.map": "/reactapp/static/css/main.ab003eb6.chunk.css.map",
+    "static/js/2.76457402.chunk.js.LICENSE.txt": "/reactapp/static/js/2.76457402.chunk.js.LICENSE.txt",
+    "static/media/delivery-man.svg": "/reactapp/static/media/delivery-man.4948508c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b45f0eea.js",
+    "static/js/runtime-main.f935dd26.js",
     "static/js/2.76457402.chunk.js",
     "static/css/main.ab003eb6.chunk.css",
-    "static/js/main.2ae9bea8.chunk.js"
+    "static/js/main.f6f3fa15.chunk.js"
   ]
 }
